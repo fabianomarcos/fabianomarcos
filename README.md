@@ -1,4 +1,7 @@
-## Hi there 👋
+## Olá todo mundo. 👋
+Bem vindos ao meu repositório. Embora a maioria seja privado, você consegue acompanhar meus estudos. Fique a vontade para explorar e me chamar em caso de dúvidas.
+
+## Abraços
 
 <!--
 **fabianomarcos/fabianomarcos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
